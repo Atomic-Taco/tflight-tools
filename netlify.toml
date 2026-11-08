@@ -1,0 +1,3 @@
+# Netlify settings for tools.tflight77.com (static page, no build step)
+[build]
+  publish = "."
